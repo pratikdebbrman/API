@@ -1,0 +1,4 @@
+fastapi==0.88.0
+uvicorn~=0.20.0
+psycopg2==2.9.3
+pandas==1.4.3
