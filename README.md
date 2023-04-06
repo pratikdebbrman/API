@@ -3,9 +3,13 @@
 https://colab.research.google.com/drive/1iOZ2J3uEAR1b9YR7M8aIrckplZJ_rBvi#scrollTo=a_b38ApBJcDk
 
 
-# Flask
+# Flask API
 
-1. There are six APIs with proper Authorization using jwt token for all the APIs.
+Run create_db.py file to create database for the APP.
+To run the Flask APP just run the main.py file after installing packages in requirements.txt.
+
+
+1. There are six APIs with proper validation of Authorization using jwt token for all the APIs with username and password.
 
 2. First we have to login with the below API. Put valid username and password at the end point.
       http://127.0.0.1:5000/login/username/password
@@ -23,3 +27,14 @@ https://colab.research.google.com/drive/1iOZ2J3uEAR1b9YR7M8aIrckplZJ_rBvi#scroll
       http://127.0.0.1:5000/api/update/2316/native_english_speaker/rounak454
       
    
+# Fast API
+
+Run create_db.py file to create database for the APP.
+To run the Fast APP just run the main.py file after installing packages in requirements.txt.
+
+1. There are one API with proper validation of Authorization using jwt token for the APIs with username and password.
+
+2. First we have to authenticate the API. Put valid username and password.
+      http://127.0.0.1:8000/docs#
+      
+      
