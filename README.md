@@ -1,6 +1,14 @@
 # Note Book
 
+Link to Note Book:-
 https://colab.research.google.com/drive/1iOZ2J3uEAR1b9YR7M8aIrckplZJ_rBvi#scrollTo=a_b38ApBJcDk
+
+1. CSV file is taken and converted to panddas datframe.
+2. Now we are checking if any data anomilies are there in the csv file or not.
+3. Finally we are training the split data in three different models (RandomForestRegressor, LogisticRegression, SVC)
+4. Last we are calculating precision, accuracy, f1 score and recall.
+
+
 
 
 # Flask API
