@@ -15,6 +15,7 @@ https://colab.research.google.com/drive/1iOZ2J3uEAR1b9YR7M8aIrckplZJ_rBvi#scroll
 
 Run create_db.py file to create database for the APP.
 To run the Flask APP just run the main.py file after installing packages in requirements.txt.
+In order to run testcases run test_api.py file.
 
 
 1. There are six APIs with proper validation of Authorization using jwt token for all the APIs with username and password.
